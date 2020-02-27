@@ -1,0 +1,8 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description
+1,7/1/2020,Credit,50,Insurance,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Credit,293.46,Interest Paid,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Credit,893.58,Contractors,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Credit,293.46,Interest Paid,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Debit,117.04,Contractors,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Debit,1120,Insurance,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"
+1,7/1/2020,Debit,293.46,Interest Paidwerwer,111 Abbott,Newark Public Schools (Abbott),"Payroll 6/1/2020ANDREWS, CORA"

@@ -1,0 +1,8 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description,Debug,Rounded,Rounded w sign
+1,6/1/2020,Debit,117.04,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 9",($117.04),117.04
+1,6/1/2020,Credit,50,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 11",$50.00 ,50
+1,6/1/2020,Credit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 12",$293.46 ,293.46
+1,6/1/2020,Credit,893.58,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 13",$893.58 ,893.58
+1,6/1/2020,Debit,1120,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 14","($1,120.00)",1120
+1,6/1/2020,Credit,293.46,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 15",$293.46 ,293.46
+1,6/1/2020,Debit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 16",($293.46),293.46

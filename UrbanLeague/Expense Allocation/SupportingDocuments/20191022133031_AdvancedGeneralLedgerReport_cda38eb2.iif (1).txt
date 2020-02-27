@@ -1,0 +1,247 @@
+!TRNS	TRNSID	TRANSTYPE	DATE	ACCNT	CLASS	AMOUNT	DOCNUM	MEMO
+!SPL	SPLID	TRANSTYPE	DATE	ACCNT	CLASS	AMOUNT	DOCNUM	MEMO
+!ENDTRNS								
+TRNS		General Journal	10/18/2019	001A002		117.59		Employer Expenses 
+SPL		General Journal	10/18/2019	001A002		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	001A017		127.34		Employer Expenses 
+SPL		General Journal	10/18/2019	001A017		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111		217.81		Employer Expenses 
+SPL		General Journal	10/18/2019	111		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A009		133.47		Employer Expenses 
+SPL		General Journal	10/18/2019	111A009		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A01B		55.91		Employer Expenses 
+SPL		General Journal	10/18/2019	111A01B		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A04N		59.43		Employer Expenses 
+SPL		General Journal	10/18/2019	111A04N		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A05S		194.15		Employer Expenses 
+SPL		General Journal	10/18/2019	111A05S		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A05V		197.56		Employer Expenses 
+SPL		General Journal	10/18/2019	111A05V		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A06Q		122.89		Employer Expenses 
+SPL		General Journal	10/18/2019	111A06Q		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A06R		240.96		Employer Expenses 
+SPL		General Journal	10/18/2019	111A06R		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111A147		159.65		Employer Expenses 
+SPL		General Journal	10/18/2019	111A147		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	111B		64.52		Employer Expenses 
+SPL		General Journal	10/18/2019	111B		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	112A04E		92.82		Employer Expenses 
+SPL		General Journal	10/18/2019	112A04E		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	222A05U		31.55		Employer Expenses 
+SPL		General Journal	10/18/2019	222A05U		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	222A167		72.65		Employer Expenses 
+SPL		General Journal	10/18/2019	222A167		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	223A012		80.61		Employer Expenses 
+SPL		General Journal	10/18/2019	223A012		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	368A06P		150.73		Employer Expenses 
+SPL		General Journal	10/18/2019	368A06P		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	368A167		169.52		Employer Expenses 
+SPL		General Journal	10/18/2019	368A167		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	451A04I		100.73		Employer Expenses 
+SPL		General Journal	10/18/2019	451A04I		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	451A04T		75.33		Employer Expenses 
+SPL		General Journal	10/18/2019	451A04T		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	451A05X		183.70		Employer Expenses 
+SPL		General Journal	10/18/2019	451A05X		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	451A06N		160.77		Employer Expenses 
+SPL		General Journal	10/18/2019	451A06N		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	467A016		241.27		Employer Expenses 
+SPL		General Journal	10/18/2019	467A016		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06K		133.78		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06K		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06M		221.07		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06M		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06O		84.65		Employer Expenses 
+SPL		General Journal	10/18/2019	467A06O		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	502A06J		253.47		Employer Expenses 
+SPL		General Journal	10/18/2019	502A06J		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	560		160.76		Employer Expenses 
+SPL		General Journal	10/18/2019	560		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	610A015		449.91		Employer Expenses 
+SPL		General Journal	10/18/2019	610A015		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	620A05U		283.96		Employer Expenses 
+SPL		General Journal	10/18/2019	620A05U		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	630		233.11		Employer Expenses 
+SPL		General Journal	10/18/2019	630		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	650A06G		67.92		Employer Expenses 
+SPL		General Journal	10/18/2019	650A06G		0.00		Employer Expenses 
+SPL		General Journal	10/18/2019	001A002		-295.18		Payroll Taxes 
+SPL		General Journal	10/18/2019	001A002		-50.00		Deductions 
+SPL		General Journal	10/18/2019	001A017		-156.99		Deductions 
+SPL		General Journal	10/18/2019	001A017		-266.42		Payroll Taxes 
+SPL		General Journal	10/18/2019	111		-582.34		Payroll Taxes 
+SPL		General Journal	10/18/2019	111		-84.82		Deductions 
+SPL		General Journal	10/18/2019	111A009		-109.32		Deductions 
+SPL		General Journal	10/18/2019	111A009		-328.21		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A01B		-147.68		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A04N		-140.82		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A05S		-283.11		Deductions 
+SPL		General Journal	10/18/2019	111A05S		-788.66		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A05V		-834.38		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A05V		-97.13		Deductions 
+SPL		General Journal	10/18/2019	111A06Q		-296.13		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A06R		-826.14		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A147		-450.52		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A147		-183.16		Deductions 
+SPL		General Journal	10/18/2019	111B		-138.86		Payroll Taxes 
+SPL		General Journal	10/18/2019	112A04E		-201.88		Payroll Taxes 
+SPL		General Journal	10/18/2019	112A04E		-123.62		Deductions 
+SPL		General Journal	10/18/2019	222A05U		-120.14		Payroll Taxes 
+SPL		General Journal	10/18/2019	222A05U		-31.01		Deductions 
+SPL		General Journal	10/18/2019	222A167		-28.63		Deductions 
+SPL		General Journal	10/18/2019	222A167		-315.73		Payroll Taxes 
+SPL		General Journal	10/18/2019	223A012		-172.02		Payroll Taxes 
+SPL		General Journal	10/18/2019	368A06P		-403.94		Payroll Taxes 
+SPL		General Journal	10/18/2019	368A167		-66.79		Deductions 
+SPL		General Journal	10/18/2019	368A167		-736.74		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A04I		-302.93		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A04I		-98.62		Deductions 
+SPL		General Journal	10/18/2019	451A04T		-170.19		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A05X		-755.59		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A05X		-95.42		Deductions 
+SPL		General Journal	10/18/2019	451A06N		-458.16		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A016		-500.00		Deductions 
+SPL		General Journal	10/18/2019	467A016		-1006.48		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06K		-388.64		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06K		-55.86		Deductions 
+SPL		General Journal	10/18/2019	467A06M		-635.59		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06O		-162.51		Payroll Taxes 
+SPL		General Journal	10/18/2019	502A06J		-98.62		Deductions 
+SPL		General Journal	10/18/2019	502A06J		-790.53		Payroll Taxes 
+SPL		General Journal	10/18/2019	560		-339.61		Payroll Taxes 
+SPL		General Journal	10/18/2019	610A015		-1916.81		Payroll Taxes 
+SPL		General Journal	10/18/2019	610A015		-423.08		Deductions 
+SPL		General Journal	10/18/2019	620A05U		-1081.30		Payroll Taxes 
+SPL		General Journal	10/18/2019	620A05U		-279.15		Deductions 
+SPL		General Journal	10/18/2019	630		-950.49		Payroll Taxes 
+SPL		General Journal	10/18/2019	630		-498.62		Deductions 
+SPL		General Journal	10/18/2019	650A06G		-165.43		Payroll Taxes 
+SPL		General Journal	10/18/2019	001A002		-897.66		Cash 
+SPL		General Journal	10/18/2019	001A017		-988.82		Cash 
+SPL		General Journal	10/18/2019	111		-1797.15		Cash 
+SPL		General Journal	10/18/2019	111A009		-1053.17		Cash 
+SPL		General Journal	10/18/2019	111A01B		-443.23		Cash 
+SPL		General Journal	10/18/2019	111A04N		-487.31		Cash 
+SPL		General Journal	10/18/2019	111A05S		-1814.69		Cash 
+SPL		General Journal	10/18/2019	111A05V		-1950.10		Cash 
+SPL		General Journal	10/18/2019	111A06Q		-1002.76		Cash 
+SPL		General Journal	10/18/2019	111A06R		-1720.64		Cash 
+SPL		General Journal	10/18/2019	111A147		-1155.75		Cash 
+SPL		General Journal	10/18/2019	111B		-543.16		Cash 
+SPL		General Journal	10/18/2019	112A04E		-730.20		Cash 
+SPL		General Journal	10/18/2019	222A05U		-303.48		Cash 
+SPL		General Journal	10/18/2019	222A167		-708.99		Cash 
+SPL		General Journal	10/18/2019	223A012		-680.07		Cash 
+SPL		General Journal	10/18/2019	368A06P		-1189.10		Cash 
+SPL		General Journal	10/18/2019	368A167		-1654.29		Cash 
+SPL		General Journal	10/18/2019	451A04I		-737.65		Cash 
+SPL		General Journal	10/18/2019	451A04T		-626.14		Cash 
+SPL		General Journal	10/18/2019	451A05X		-1832.69		Cash 
+SPL		General Journal	10/18/2019	451A06N		-1241.08		Cash 
+SPL		General Journal	10/18/2019	467A016		-1888.64		Cash 
+SPL		General Journal	10/18/2019	467A06K		-1016.21		Cash 
+SPL		General Journal	10/18/2019	467A06M		-1700.87		Cash 
+SPL		General Journal	10/18/2019	467A06O		-732.14		Cash 
+SPL		General Journal	10/18/2019	502A06J		-1864.32		Cash 
+SPL		General Journal	10/18/2019	560		-1359.61		Cash 
+SPL		General Journal	10/18/2019	610A015		-4071.56		Cash 
+SPL		General Journal	10/18/2019	620A05U		-2731.20		Cash 
+SPL		General Journal	10/18/2019	630		-1937.85		Cash 
+SPL		General Journal	10/18/2019	650A06G		-552.49		Cash 
+SPL		General Journal	10/18/2019	001A002		1125.25		Salaries 
+SPL		General Journal	10/18/2019	001A017		1284.89		Salaries 
+SPL		General Journal	10/18/2019	111		2246.50		Salaries 
+SPL		General Journal	10/18/2019	111A009		1357.23		Salaries 
+SPL		General Journal	10/18/2019	111A01B		535.00		Salaries 
+SPL		General Journal	10/18/2019	111A04N		568.70		Salaries 
+SPL		General Journal	10/18/2019	111A05S		2692.31		Salaries 
+SPL		General Journal	10/18/2019	111A05V		2684.05		Salaries 
+SPL		General Journal	10/18/2019	111A06Q		1176.00		Salaries 
+SPL		General Journal	10/18/2019	111A06R		2305.82		Salaries 
+SPL		General Journal	10/18/2019	111A147		1629.78		Salaries 
+SPL		General Journal	10/18/2019	111B		617.50		Salaries 
+SPL		General Journal	10/18/2019	112A04E		962.88		Salaries 
+SPL		General Journal	10/18/2019	222A05U		423.08		Salaries 
+SPL		General Journal	10/18/2019	222A167		980.70		Salaries 
+SPL		General Journal	10/18/2019	223A012		771.48		Salaries 
+SPL		General Journal	10/18/2019	368A06P		1442.31		Salaries 
+SPL		General Journal	10/18/2019	368A167		2288.30		Salaries 
+SPL		General Journal	10/18/2019	451A04I		1038.47		Salaries 
+SPL		General Journal	10/18/2019	451A04T		721.00		Salaries 
+SPL		General Journal	10/18/2019	451A05X		2500.00		Salaries 
+SPL		General Journal	10/18/2019	451A06N		1538.47		Salaries 
+SPL		General Journal	10/18/2019	467A016		3153.85		Salaries 
+SPL		General Journal	10/18/2019	467A06K		1326.93		Salaries 
+SPL		General Journal	10/18/2019	467A06M		2115.39		Salaries 
+SPL		General Journal	10/18/2019	467A06O		810.00		Salaries 
+SPL		General Journal	10/18/2019	502A06J		2500.00		Salaries 
+SPL		General Journal	10/18/2019	560		1538.46		Salaries 
+SPL		General Journal	10/18/2019	610A015		5961.54		Salaries 
+SPL		General Journal	10/18/2019	620A05U		3807.69		Salaries 
+SPL		General Journal	10/18/2019	630		3153.85		Salaries 
+SPL		General Journal	10/18/2019	650A06G		650.00		Salaries 
+SPL		General Journal	10/18/2019	001A002		295.18		Payroll Taxes 
+SPL		General Journal	10/18/2019	001A002		-295.18		Cash 
+SPL		General Journal	10/18/2019	001A017		266.42		Payroll Taxes 
+SPL		General Journal	10/18/2019	001A017		-266.42		Cash 
+SPL		General Journal	10/18/2019	111		582.34		Payroll Taxes 
+SPL		General Journal	10/18/2019	111		-582.34		Cash 
+SPL		General Journal	10/18/2019	111A009		328.21		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A009		-328.21		Cash 
+SPL		General Journal	10/18/2019	111A01B		147.68		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A01B		-147.68		Cash 
+SPL		General Journal	10/18/2019	111A04N		140.82		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A04N		-140.82		Cash 
+SPL		General Journal	10/18/2019	111A05S		788.66		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A05S		-788.66		Cash 
+SPL		General Journal	10/18/2019	111A05V		834.38		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A05V		-834.38		Cash 
+SPL		General Journal	10/18/2019	111A06Q		296.13		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A06Q		-296.13		Cash 
+SPL		General Journal	10/18/2019	111A06R		826.14		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A06R		-826.14		Cash 
+SPL		General Journal	10/18/2019	111A147		450.52		Payroll Taxes 
+SPL		General Journal	10/18/2019	111A147		-450.52		Cash 
+SPL		General Journal	10/18/2019	111B		138.86		Payroll Taxes 
+SPL		General Journal	10/18/2019	111B		-138.86		Cash 
+SPL		General Journal	10/18/2019	112A04E		201.88		Payroll Taxes 
+SPL		General Journal	10/18/2019	112A04E		-201.88		Cash 
+SPL		General Journal	10/18/2019	222A05U		120.14		Payroll Taxes 
+SPL		General Journal	10/18/2019	222A05U		-120.14		Cash 
+SPL		General Journal	10/18/2019	222A167		315.73		Payroll Taxes 
+SPL		General Journal	10/18/2019	222A167		-315.73		Cash 
+SPL		General Journal	10/18/2019	223A012		172.02		Payroll Taxes 
+SPL		General Journal	10/18/2019	223A012		-172.02		Cash 
+SPL		General Journal	10/18/2019	368A06P		403.94		Payroll Taxes 
+SPL		General Journal	10/18/2019	368A06P		-403.94		Cash 
+SPL		General Journal	10/18/2019	368A167		736.74		Payroll Taxes 
+SPL		General Journal	10/18/2019	368A167		-736.74		Cash 
+SPL		General Journal	10/18/2019	451A04I		302.93		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A04I		-302.93		Cash 
+SPL		General Journal	10/18/2019	451A04T		170.19		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A04T		-170.19		Cash 
+SPL		General Journal	10/18/2019	451A05X		755.59		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A05X		-755.59		Cash 
+SPL		General Journal	10/18/2019	451A06N		458.16		Payroll Taxes 
+SPL		General Journal	10/18/2019	451A06N		-458.16		Cash 
+SPL		General Journal	10/18/2019	467A016		1006.48		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A016		-1006.48		Cash 
+SPL		General Journal	10/18/2019	467A06K		388.64		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06K		-388.64		Cash 
+SPL		General Journal	10/18/2019	467A06M		635.59		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06M		-635.59		Cash 
+SPL		General Journal	10/18/2019	467A06O		162.51		Payroll Taxes 
+SPL		General Journal	10/18/2019	467A06O		-162.51		Cash 
+SPL		General Journal	10/18/2019	502A06J		790.53		Payroll Taxes 
+SPL		General Journal	10/18/2019	502A06J		-790.53		Cash 
+SPL		General Journal	10/18/2019	560		339.61		Payroll Taxes 
+SPL		General Journal	10/18/2019	560		-339.61		Cash 
+SPL		General Journal	10/18/2019	610A015		1916.81		Payroll Taxes 
+SPL		General Journal	10/18/2019	610A015		-1916.81		Cash 
+SPL		General Journal	10/18/2019	620A05U		1081.30		Payroll Taxes 
+SPL		General Journal	10/18/2019	620A05U		-1081.30		Cash 
+SPL		General Journal	10/18/2019	630		950.49		Payroll Taxes 
+SPL		General Journal	10/18/2019	630		-950.49		Cash 
+SPL		General Journal	10/18/2019	650A06G		165.43		Payroll Taxes 
+SPL		General Journal	10/18/2019	650A06G		-165.43		Cash 
+ENDTRNS								

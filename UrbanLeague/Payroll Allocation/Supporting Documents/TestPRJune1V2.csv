@@ -1,0 +1,393 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description,Debug,Rounded,Rounded w sign,,
+1,6/1/2020,Debit,117.04,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 9",($117.04),117.04,,New payroll record
+1,6/1/2020,Credit,50,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 11",$50.00 ,50,,New payroll record
+1,6/1/2020,Credit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 12",$293.46 ,293.46,,New payroll record
+1,6/1/2020,Credit,893.58,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 13",$893.58 ,893.58,,New payroll record
+1,6/1/2020,Debit,1120,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 14","($1,120.00)",1120,,New payroll record
+1,6/1/2020,Credit,293.46,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 15",$293.46 ,293.46,,New payroll record
+1,6/1/2020,Debit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 16",($293.46),293.46,,New payroll record
+1,6/1/2020,Debit,67.93,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 17",($67.93),67.93,,New payroll record
+1,6/1/2020,Credit,165.45,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 19",$165.45 ,165.45,,New payroll record
+1,6/1/2020,Credit,552.48,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 20",$552.48 ,552.48,,New payroll record
+1,6/1/2020,Debit,650,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 21",($650.00),650,,New payroll record
+1,6/1/2020,Credit,165.45,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 22",$165.45 ,165.45,,New payroll record
+1,6/1/2020,Debit,165.45,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"BENNETT, PATRICIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 23",($165.45),165.45,,New payroll record
+1,6/1/2020,Debit,51.73,7251 Social Security,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 24",($51.73),51.73,,New payroll record
+1,6/1/2020,Credit,101.79,2241 Fica Tax payable,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 26",$101.79 ,101.79,,New payroll record
+1,6/1/2020,Credit,444.94,1010 BOA Operating Acct 3973,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 27",$444.94 ,444.94,,New payroll record
+1,6/1/2020,Debit,495,7220 Salaries & Wages,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 28",($495.00),495,,New payroll record
+1,6/1/2020,Credit,101.79,1010 BOA Operating Acct 3973,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 29",$101.79 ,101.79,,New payroll record
+1,6/1/2020,Debit,101.79,2241 Fica Tax payable,111B Abbott Fees,Private Pay,"BROWN, DENYSE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 30",($101.79),101.79,,New payroll record
+1,6/1/2020,Debit,135.53,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 31",($135.53),135.53,,New payroll record
+1,6/1/2020,Credit,95.91,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 33",$95.91 ,95.91,,New payroll record
+1,6/1/2020,Credit,335.3,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 34",$335.30 ,335.3,,New payroll record
+1,6/1/2020,Credit,1071.55,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 35","$1,071.55 ",1071.55,,New payroll record
+1,6/1/2020,Debit,1367.23,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 36","($1,367.23)",1367.23,,New payroll record
+1,6/1/2020,Credit,335.3,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 37",$335.30 ,335.3,,New payroll record
+1,6/1/2020,Debit,335.3,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"BRYANT, RONI Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 38",($335.30),335.3,,New payroll record
+1,6/1/2020,Debit,112.68,7251 Social Security,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 39",($112.68),112.68,,New payroll record
+1,6/1/2020,Credit,103.26,2260 Accrued Aflac,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 41",$103.26 ,103.26,,New payroll record
+1,6/1/2020,Credit,320.99,2241 Fica Tax payable,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 42",$320.99 ,320.99,,New payroll record
+1,6/1/2020,Credit,842.28,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 43",$842.28 ,842.28,,New payroll record
+1,6/1/2020,Debit,1153.85,7220 Salaries & Wages,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 44","($1,153.85)",1153.85,,New payroll record
+1,6/1/2020,Credit,320.99,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 45",$320.99 ,320.99,,New payroll record
+1,6/1/2020,Debit,320.99,2241 Fica Tax payable,451 USJP Program,NUL,"CERNA, IRENE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 46",($320.99),320.99,,New payroll record
+1,6/1/2020,Debit,89.57,7251 Social Security,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 47",($89.57),89.57,,New payroll record
+1,6/1/2020,Credit,198.41,2241 Fica Tax payable,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 49",$198.41 ,198.41,,New payroll record
+1,6/1/2020,Credit,748.36,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 50",$748.36 ,748.36,,New payroll record
+1,6/1/2020,Debit,857.2,7220 Salaries & Wages,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 51",($857.20),857.2,,New payroll record
+1,6/1/2020,Credit,198.41,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 52",$198.41 ,198.41,,New payroll record
+1,6/1/2020,Debit,198.41,2241 Fica Tax payable,563 Pru - FOC,Prudential,"COOPER, CASSANDRA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 53",($198.41),198.41,,New payroll record
+1,6/1/2020,Debit,139.6224,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 54",($139.62),139.62,,New payroll record
+1,6/1/2020,Debit,54.2976,7251 Social Security,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 54",($54.30),54.3,,
+1,6/1/2020,Credit,205.6392,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 56",$205.64 ,205.64,,New payroll record
+1,6/1/2020,Credit,79.9708,2260 Accrued Aflac,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 56",$79.97 ,79.97,,
+1,6/1/2020,Credit,567.0504,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 57",$567.05 ,567.05,,New payroll record
+1,6/1/2020,Credit,220.5196,2241 Fica Tax payable,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 57",$220.52 ,220.52,,
+1,6/1/2020,Credit,1305.396,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 58","$1,305.40 ",1305.4,,New payroll record
+1,6/1/2020,Credit,507.654,1010 BOA Operating Acct 3973,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 58",$507.65 ,507.65,,
+1,6/1/2020,Debit,1938.4632,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 59","($1,938.46)",1938.46,,New payroll record
+1,6/1/2020,Debit,753.8468,7220 Salaries & Wages,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 59",($753.85),753.85,,
+1,6/1/2020,Credit,567.0504,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 60",$567.05 ,567.05,,New payroll record
+1,6/1/2020,Credit,220.5196,1010 BOA Operating Acct 3973,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 60",$220.52 ,220.52,,
+1,6/1/2020,Debit,567.0504,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"DANCE-WILSON, HEATHER Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 61",($567.05),567.05,,New payroll record
+1,6/1/2020,Debit,220.5196,2241 Fica Tax payable,111A Abbott Other,Private Pay,"DANCE-WILSON, HEATHER Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 61",($220.52),220.52,,
+1,6/1/2020,Debit,92.71,7251 Social Security,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 62",($92.71),92.71,,New payroll record
+1,6/1/2020,Credit,124.91,2260 Accrued Aflac,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 64",$124.91 ,124.91,,New payroll record
+1,6/1/2020,Credit,179.6,2241 Fica Tax payable,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 65",$179.60 ,179.6,,New payroll record
+1,6/1/2020,Credit,751.08,1010 BOA Operating Acct 3973,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 66",$751.08 ,751.08,,New payroll record
+1,6/1/2020,Debit,962.88,7220 Salaries & Wages,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 67",($962.88),962.88,,New payroll record
+1,6/1/2020,Credit,179.6,1010 BOA Operating Acct 3973,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 68",$179.60 ,179.6,,New payroll record
+1,6/1/2020,Debit,179.6,2241 Fica Tax payable,112.1 Toddlers,Private Pay,"FITZPATRICK, CYNTHIA ELAINE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 69",($179.60),179.6,,New payroll record
+1,6/1/2020,Debit,405.477,7251 Social Security,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 70",($405.48),405.48,,New payroll record
+1,6/1/2020,Debit,45.053,7251 Social Security,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 70",($45.05),45.05,,
+1,6/1/2020,Credit,380.772,2260 Accrued Aflac,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 72",$380.77 ,380.77,,New payroll record
+1,6/1/2020,Credit,42.308,2260 Accrued Aflac,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 72",$42.31 ,42.31,,
+1,6/1/2020,Credit,1727.847,2241 Fica Tax payable,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 73","$1,727.85 ",1727.85,,New payroll record
+1,6/1/2020,Credit,191.983,2241 Fica Tax payable,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 73",$191.98 ,191.98,,
+1,6/1/2020,Credit,3662.244,1010 BOA Operating Acct 3973,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 74","$3,662.24 ",3662.24,,New payroll record
+1,6/1/2020,Credit,406.916,1010 BOA Operating Acct 3973,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 74",$406.92 ,406.92,,
+1,6/1/2020,Debit,5365.386,7220 Salaries & Wages,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 75","($5,365.39)",5365.39,,New payroll record
+1,6/1/2020,Debit,596.154,7220 Salaries & Wages,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 75",($596.15),596.15,,
+1,6/1/2020,Credit,1727.847,1010 BOA Operating Acct 3973,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 76","$1,727.85 ",1727.85,,New payroll record
+1,6/1/2020,Credit,191.983,1010 BOA Operating Acct 3973,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 76",$191.98 ,191.98,,
+1,6/1/2020,Debit,1727.847,2241 Fica Tax payable,610 CEO,Victoria Foundation,"FRASER, VIVIAN COX Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 77","($1,727.85)",1727.85,,New payroll record
+1,6/1/2020,Debit,191.983,2241 Fica Tax payable,700 Fundraising,Private Pay,"FRASER, VIVIAN COX Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 77",($191.98),191.98,,
+1,6/1/2020,Debit,79.6158,7251 Social Security,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 78",($79.62),79.62,,New payroll record
+1,6/1/2020,Debit,161.6442,7251 Social Security,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 78",($161.64),161.64,,
+1,6/1/2020,Credit,165,2260 Accrued Aflac,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 80",$165.00 ,165,,New payroll record
+1,6/1/2020,Credit,335,2260 Accrued Aflac,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 80",$335.00 ,335,,
+1,6/1/2020,Credit,332.1318,2241 Fica Tax payable,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 81",$332.13 ,332.13,,New payroll record
+1,6/1/2020,Credit,674.3282,2241 Fica Tax payable,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 81",$674.33 ,674.33,,
+1,6/1/2020,Credit,623.2545,1010 BOA Operating Acct 3973,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 82",$623.25 ,623.25,,New payroll record
+1,6/1/2020,Credit,1265.3955,1010 BOA Operating Acct 3973,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 82","$1,265.40 ",1265.4,,
+1,6/1/2020,Debit,1040.7705,7220 Salaries & Wages,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 83","($1,040.77)",1040.77,,New payroll record
+1,6/1/2020,Debit,2113.0795,7220 Salaries & Wages,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 83","($2,113.08)",2113.08,,
+1,6/1/2020,Credit,332.1318,1010 BOA Operating Acct 3973,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 84",$332.13 ,332.13,,New payroll record
+1,6/1/2020,Credit,674.3282,1010 BOA Operating Acct 3973,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 84",$674.33 ,674.33,,
+1,6/1/2020,Debit,332.1318,2241 Fica Tax payable,467 WorkForceUA,"United Airlines, Inc.","FRAZIER, ALICE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 85",($332.13),332.13,,New payroll record
+1,6/1/2020,Debit,674.3282,2241 Fica Tax payable,454 Pru - Workforce,Prudential,"FRAZIER, ALICE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 85",($674.33),674.33,,
+1,6/1/2020,Debit,126.85,7251 Social Security,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 86",($126.85),126.85,,New payroll record
+1,6/1/2020,Credit,158.47,2260 Accrued Aflac,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 88",$158.47 ,158.47,,New payroll record
+1,6/1/2020,Credit,264.94,2241 Fica Tax payable,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 89",$264.94 ,264.94,,New payroll record
+1,6/1/2020,Credit,984.88,1010 BOA Operating Acct 3973,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 90",$984.88 ,984.88,,New payroll record
+1,6/1/2020,Debit,1281.44,7220 Salaries & Wages,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 91","($1,281.44)",1281.44,,New payroll record
+1,6/1/2020,Credit,264.94,1010 BOA Operating Acct 3973,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 92",$264.94 ,264.94,,New payroll record
+1,6/1/2020,Debit,264.94,2241 Fica Tax payable,112.1 Toddlers,Private Pay,"GREEN, YOLANDA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 93",($264.94),264.94,,New payroll record
+1,6/1/2020,Debit,16.076,7251 Social Security,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 94",($16.08),16.08,,New payroll record
+1,6/1/2020,Debit,72.342,7251 Social Security,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 94",($72.34),72.34,,
+1,6/1/2020,Debit,28.9368,7251 Social Security,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 94",($28.94),28.94,,
+1,6/1/2020,Debit,43.4052,7251 Social Security,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 94",($43.40),43.4,,
+1,6/1/2020,Credit,30.806,2241 Fica Tax payable,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 96",$30.81 ,30.81,,New payroll record
+1,6/1/2020,Credit,138.627,2241 Fica Tax payable,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 96",$138.63 ,138.63,,
+1,6/1/2020,Credit,55.4508,2241 Fica Tax payable,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 96",$55.45 ,55.45,,
+1,6/1/2020,Credit,83.1762,2241 Fica Tax payable,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 96",$83.17 ,83.17,,
+1,6/1/2020,Credit,139.116,1010 BOA Operating Acct 3973,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 97",$139.12 ,139.12,,New payroll record
+1,6/1/2020,Credit,626.022,1010 BOA Operating Acct 3973,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 97",$626.02 ,626.02,,
+1,6/1/2020,Credit,250.4088,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 97",$250.41 ,250.41,,
+1,6/1/2020,Credit,375.6132,1010 BOA Operating Acct 3973,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 97",$375.61 ,375.61,,
+1,6/1/2020,Debit,153.846,7220 Salaries & Wages,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 98",($153.85),153.85,,New payroll record
+1,6/1/2020,Debit,692.307,7220 Salaries & Wages,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 98",($692.31),692.31,,
+1,6/1/2020,Debit,276.9228,7220 Salaries & Wages,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 98",($276.92),276.92,,
+1,6/1/2020,Debit,415.3842,7220 Salaries & Wages,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 98",($415.38),415.38,,
+1,6/1/2020,Credit,30.806,1010 BOA Operating Acct 3973,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 99",$30.81 ,30.81,,New payroll record
+1,6/1/2020,Credit,138.627,1010 BOA Operating Acct 3973,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 99",$138.63 ,138.63,,
+1,6/1/2020,Credit,55.4508,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 99",$55.45 ,55.45,,
+1,6/1/2020,Credit,83.1762,1010 BOA Operating Acct 3973,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 99",$83.17 ,83.17,,
+1,6/1/2020,Debit,30.806,2241 Fica Tax payable,560 Capital 1 SaveUp,Capital One,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 100",($30.81),30.81,,New payroll record
+1,6/1/2020,Debit,138.627,2241 Fica Tax payable,562 LISC FOC 2020,LISC-HUD FOC,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 100",($138.63),138.63,,
+1,6/1/2020,Debit,55.4508,2241 Fica Tax payable,563 Pru - FOC,Prudential,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 100",($55.45),55.45,,
+1,6/1/2020,Debit,83.1762,2241 Fica Tax payable,334F FOC,State of NJ 2018,"HIGGINS, ROSA M. Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 100",($83.17),83.17,,
+1,6/1/2020,Debit,238.17,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 101",($238.17),238.17,,New payroll record
+1,6/1/2020,Credit,813.65,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 103",$813.65 ,813.65,,New payroll record
+1,6/1/2020,Credit,1703.73,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 104","$1,703.73 ",1703.73,,New payroll record
+1,6/1/2020,Debit,2279.21,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 105","($2,279.21)",2279.21,,New payroll record
+1,6/1/2020,Credit,813.65,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 106",$813.65 ,813.65,,New payroll record
+1,6/1/2020,Debit,813.65,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"HOLLINS, QUINTELLA D Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 107",($813.65),813.65,,New payroll record
+1,6/1/2020,Debit,221.05,7251 Social Security,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 108",($221.05),221.05,,New payroll record
+1,6/1/2020,Credit,635.56,2241 Fica Tax payable,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 110",$635.56 ,635.56,,New payroll record
+1,6/1/2020,Credit,1700.88,1010 BOA Operating Acct 3973,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 111","$1,700.88 ",1700.88,,New payroll record
+1,6/1/2020,Debit,2115.39,7220 Salaries & Wages,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 112","($2,115.39)",2115.39,,New payroll record
+1,6/1/2020,Credit,635.56,1010 BOA Operating Acct 3973,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 113",$635.56 ,635.56,,New payroll record
+1,6/1/2020,Debit,635.56,2241 Fica Tax payable,467 WorkForceUA,"United Airlines, Inc.","HOWARD, THERESA M Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 114",($635.56),635.56,,New payroll record
+1,6/1/2020,Debit,241.87,7251 Social Security,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 115",($241.87),241.87,,New payroll record
+1,6/1/2020,Credit,60.3,2260 Accrued Aflac,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 117",$60.30 ,60.3,,New payroll record
+1,6/1/2020,Credit,790.42,2241 Fica Tax payable,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 118",$790.42 ,790.42,,New payroll record
+1,6/1/2020,Credit,1752.31,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 119","$1,752.31 ",1752.31,,New payroll record
+1,6/1/2020,Debit,2361.16,7220 Salaries & Wages,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 120","($2,361.16)",2361.16,,New payroll record
+1,6/1/2020,Credit,790.42,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 121",$790.42 ,790.42,,New payroll record
+1,6/1/2020,Debit,790.42,2241 Fica Tax payable,451 USJP Program,NUL,"JANVIER, JHONNY Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 122",($790.42),790.42,,New payroll record
+1,6/1/2020,Debit,160.76,7251 Social Security,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 130",($160.76),160.76,,New payroll record
+1,6/1/2020,Credit,458.15,2241 Fica Tax payable,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 132",$458.15 ,458.15,,New payroll record
+1,6/1/2020,Credit,1241.08,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 133","$1,241.08 ",1241.08,,New payroll record
+1,6/1/2020,Debit,1538.47,7220 Salaries & Wages,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 134","($1,538.47)",1538.47,,New payroll record
+1,6/1/2020,Credit,458.15,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 135",$458.15 ,458.15,,New payroll record
+1,6/1/2020,Debit,458.15,2241 Fica Tax payable,451 USJP Program,NUL,"LEAKE, RAHMEL Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 136",($458.15),458.15,,New payroll record
+1,6/1/2020,Debit,63.2175,7251 Social Security,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 137",($63.22),63.22,,New payroll record
+1,6/1/2020,Debit,45.5166,7251 Social Security,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 137",($45.52),45.52,,
+1,6/1/2020,Debit,17.7009,7251 Social Security,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 137",($17.70),17.7,,
+1,6/1/2020,Debit,63.2175,7251 Social Security,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 137",($63.22),63.22,,
+1,6/1/2020,Debit,63.2175,7251 Social Security,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 137",($63.21),63.21,,
+1,6/1/2020,Credit,26.475,2260 Accrued Aflac,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 139",$26.48 ,26.48,,New payroll record
+1,6/1/2020,Credit,19.062,2260 Accrued Aflac,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 139",$19.06 ,19.06,,
+1,6/1/2020,Credit,7.413,2260 Accrued Aflac,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 139",$7.41 ,7.41,,
+1,6/1/2020,Credit,26.475,2260 Accrued Aflac,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 139",$26.48 ,26.48,,
+1,6/1/2020,Credit,26.475,2260 Accrued Aflac,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 139",$26.47 ,26.47,,
+1,6/1/2020,Credit,196.9225,2241 Fica Tax payable,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 140",$196.92 ,196.92,,New payroll record
+1,6/1/2020,Credit,141.7842,2241 Fica Tax payable,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 140",$141.78 ,141.78,,
+1,6/1/2020,Credit,55.1383,2241 Fica Tax payable,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 140",$55.14 ,55.14,,
+1,6/1/2020,Credit,196.9225,2241 Fica Tax payable,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 140",$196.92 ,196.92,,
+1,6/1/2020,Credit,196.9225,2241 Fica Tax payable,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 140",$196.93 ,196.93,,
+1,6/1/2020,Credit,464.82,1010 BOA Operating Acct 3973,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 141",$464.82 ,464.82,,New payroll record
+1,6/1/2020,Credit,334.6704,1010 BOA Operating Acct 3973,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 141",$334.67 ,334.67,,
+1,6/1/2020,Credit,130.1496,1010 BOA Operating Acct 3973,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 141",$130.15 ,130.15,,
+1,6/1/2020,Credit,464.82,1010 BOA Operating Acct 3973,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 141",$464.82 ,464.82,,
+1,6/1/2020,Credit,464.82,1010 BOA Operating Acct 3973,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 141",$464.82 ,464.82,,
+1,6/1/2020,Debit,625,7220 Salaries & Wages,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 142",($625.00),625,,New payroll record
+1,6/1/2020,Debit,450,7220 Salaries & Wages,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 142",($450.00),450,,
+1,6/1/2020,Debit,175,7220 Salaries & Wages,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 142",($175.00),175,,
+1,6/1/2020,Debit,625,7220 Salaries & Wages,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 142",($625.00),625,,
+1,6/1/2020,Debit,625,7220 Salaries & Wages,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 142",($625.00),625,,
+1,6/1/2020,Credit,196.9225,1010 BOA Operating Acct 3973,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 143",$196.92 ,196.92,,New payroll record
+1,6/1/2020,Credit,141.7842,1010 BOA Operating Acct 3973,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 143",$141.78 ,141.78,,
+1,6/1/2020,Credit,55.1383,1010 BOA Operating Acct 3973,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 143",$55.14 ,55.14,,
+1,6/1/2020,Credit,196.9225,1010 BOA Operating Acct 3973,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 143",$196.92 ,196.92,,
+1,6/1/2020,Credit,196.9225,1010 BOA Operating Acct 3973,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 143",$196.93 ,196.93,,
+1,6/1/2020,Debit,196.9225,2241 Fica Tax payable,502 ESG Housing Asst Program,City of Newark,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 144",($196.92),196.92,,New payroll record
+1,6/1/2020,Debit,141.7842,2241 Fica Tax payable,334F NRTC 2018 Grant,NRTC 2018,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 144",($141.78),141.78,,
+1,6/1/2020,Debit,55.1383,2241 Fica Tax payable,341 NRTC 2020,State of New Jersey NRTC,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 144",($55.14),55.14,,
+1,6/1/2020,Debit,196.9225,2241 Fica Tax payable,525 CDBG - Housing,City of Irvington,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 144",($196.92),196.92,,
+1,6/1/2020,Debit,196.9225,2241 Fica Tax payable,515 NUL HUD PARS,NUL,"LINDSEY, VICTORIA A Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 144",($196.93),196.93,,
+1,6/1/2020,Debit,91.74,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 145",($91.74),91.74,,New payroll record
+1,6/1/2020,Credit,200.97,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 147",$200.97 ,200.97,,New payroll record
+1,6/1/2020,Credit,768.6,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 148",$768.60 ,768.6,,New payroll record
+1,6/1/2020,Debit,877.83,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 149",($877.83),877.83,,New payroll record
+1,6/1/2020,Credit,200.97,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 150",$200.97 ,200.97,,New payroll record
+1,6/1/2020,Debit,200.97,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"LOFTIN, NIQUITA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 151",($200.97),200.97,,New payroll record
+1,6/1/2020,Debit,119.13,7251 Social Security,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 152",($119.13),119.13,,New payroll record
+1,6/1/2020,Credit,250.84,2241 Fica Tax payable,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 154",$250.84 ,250.84,,New payroll record
+1,6/1/2020,Credit,1008.29,1010 BOA Operating Acct 3973,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 155","$1,008.29 ",1008.29,,New payroll record
+1,6/1/2020,Debit,1140,7220 Salaries & Wages,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 156","($1,140.00)",1140,,New payroll record
+1,6/1/2020,Credit,250.84,1010 BOA Operating Acct 3973,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 157",$250.84 ,250.84,,New payroll record
+1,6/1/2020,Debit,250.84,2241 Fica Tax payable,452 PACE,State of NJ -PACE,"LOVE, CHARLES F Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 158",($250.84),250.84,,New payroll record
+1,6/1/2020,Debit,150.71,7251 Social Security,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 159",($150.71),150.71,,New payroll record
+1,6/1/2020,Credit,403.91,2241 Fica Tax payable,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 161",$403.91 ,403.91,,New payroll record
+1,6/1/2020,Credit,1189.11,1010 BOA Operating Acct 3973,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 162","$1,189.11 ",1189.11,,New payroll record
+1,6/1/2020,Debit,1442.31,7220 Salaries & Wages,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 163","($1,442.31)",1442.31,,New payroll record
+1,6/1/2020,Credit,403.91,1010 BOA Operating Acct 3973,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 164",$403.91 ,403.91,,New payroll record
+1,6/1/2020,Debit,403.91,2241 Fica Tax payable,368 WF Neigh Revit,Wells Fargo Regional Foundation,"MCDANIEL, CURTIS J Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 165",($403.91),403.91,,New payroll record
+1,6/1/2020,Credit,101.8,2260 Accrued Aflac,Admin,Admin,Abbott Payroll 6/1/2020,"Employer Liability, Deductions  Payroll Row: 166",$101.80 ,101.8,,New payroll record
+1,6/1/2020,Debit,183.56,7251 Social Security,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 167",($183.56),183.56,,New payroll record
+1,6/1/2020,Credit,97.01,2260 Accrued Aflac,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 169",$97.01 ,97.01,,New payroll record
+1,6/1/2020,Credit,754.91,2241 Fica Tax payable,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 170",$754.91 ,754.91,,New payroll record
+1,6/1/2020,Credit,1831.64,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 171","$1,831.64 ",1831.64,,New payroll record
+1,6/1/2020,Debit,2500,7220 Salaries & Wages,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 172","($2,500.00)",2500,,New payroll record
+1,6/1/2020,Credit,754.91,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 173",$754.91 ,754.91,,New payroll record
+1,6/1/2020,Debit,754.91,2241 Fica Tax payable,451 USJP Program,NUL,"MORRIS, GWENDOLYN J Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 174",($754.91),754.91,,New payroll record
+1,6/1/2020,Debit,46.622,7251 Social Security,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($46.62),46.62,,New payroll record
+1,6/1/2020,Debit,55.9464,7251 Social Security,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($55.95),55.95,,
+1,6/1/2020,Debit,0,7251 Social Security,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",$0.00 ,0,,
+1,6/1/2020,Debit,11.6555,7251 Social Security,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($11.66),11.66,,
+1,6/1/2020,Debit,9.3244,7251 Social Security,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($9.32),9.32,,
+1,6/1/2020,Debit,4.6622,7251 Social Security,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($4.66),4.66,,
+1,6/1/2020,Debit,13.9866,7251 Social Security,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($13.99),13.99,,
+1,6/1/2020,Debit,90.9129,7251 Social Security,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",($90.91),90.91,,
+1,6/1/2020,Debit,0,7251 Social Security,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 175",$0.00 ,0,,
+1,6/1/2020,Credit,100.652,2260 Accrued Aflac,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$100.65 ,100.65,,New payroll record
+1,6/1/2020,Credit,120.7824,2260 Accrued Aflac,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$120.78 ,120.78,,
+1,6/1/2020,Credit,0,2260 Accrued Aflac,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$0.00 ,0,,
+1,6/1/2020,Credit,25.163,2260 Accrued Aflac,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$25.16 ,25.16,,
+1,6/1/2020,Credit,20.1304,2260 Accrued Aflac,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$20.13 ,20.13,,
+1,6/1/2020,Credit,10.0652,2260 Accrued Aflac,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$10.07 ,10.07,,
+1,6/1/2020,Credit,30.1956,2260 Accrued Aflac,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$30.20 ,30.2,,
+1,6/1/2020,Credit,196.2714,2260 Accrued Aflac,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$196.27 ,196.27,,
+1,6/1/2020,Credit,0,2260 Accrued Aflac,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 177",$0.00 ,0,,
+1,6/1/2020,Credit,190.09,2241 Fica Tax payable,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$190.09 ,190.09,,New payroll record
+1,6/1/2020,Credit,228.108,2241 Fica Tax payable,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$228.11 ,228.11,,
+1,6/1/2020,Credit,0,2241 Fica Tax payable,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$0.00 ,0,,
+1,6/1/2020,Credit,47.5225,2241 Fica Tax payable,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$47.52 ,47.52,,
+1,6/1/2020,Credit,38.018,2241 Fica Tax payable,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$38.02 ,38.02,,
+1,6/1/2020,Credit,19.009,2241 Fica Tax payable,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$19.01 ,19.01,,
+1,6/1/2020,Credit,57.027,2241 Fica Tax payable,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$57.03 ,57.03,,
+1,6/1/2020,Credit,370.6755,2241 Fica Tax payable,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",$370.68 ,370.68,,
+1,6/1/2020,Credit,0,2241 Fica Tax payable,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 178",($0.01),-0.01,,
+1,6/1/2020,Credit,386.65,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$386.65 ,386.65,,New payroll record
+1,6/1/2020,Credit,463.98,1010 BOA Operating Acct 3973,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$463.98 ,463.98,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$0.00 ,0,,
+1,6/1/2020,Credit,96.6625,1010 BOA Operating Acct 3973,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$96.66 ,96.66,,
+1,6/1/2020,Credit,77.33,1010 BOA Operating Acct 3973,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$77.33 ,77.33,,
+1,6/1/2020,Credit,38.665,1010 BOA Operating Acct 3973,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$38.66 ,38.66,,
+1,6/1/2020,Credit,115.995,1010 BOA Operating Acct 3973,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$115.99 ,115.99,,
+1,6/1/2020,Credit,753.9675,1010 BOA Operating Acct 3973,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$753.97 ,753.97,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 179",$0.01 ,0.01,,
+1,6/1/2020,Debit,630.77,7220 Salaries & Wages,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($630.77),630.77,,New payroll record
+1,6/1/2020,Debit,756.924,7220 Salaries & Wages,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($756.92),756.92,,
+1,6/1/2020,Debit,0,7220 Salaries & Wages,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",$0.00 ,0,,
+1,6/1/2020,Debit,157.6925,7220 Salaries & Wages,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($157.69),157.69,,
+1,6/1/2020,Debit,126.154,7220 Salaries & Wages,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($126.15),126.15,,
+1,6/1/2020,Debit,63.077,7220 Salaries & Wages,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($63.08),63.08,,
+1,6/1/2020,Debit,189.231,7220 Salaries & Wages,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($189.23),189.23,,
+1,6/1/2020,Debit,1230.0015,7220 Salaries & Wages,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180","($1,230.00)",1230,,
+1,6/1/2020,Debit,0,7220 Salaries & Wages,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 180",($0.01),0.01,,
+1,6/1/2020,Credit,190.09,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$190.09 ,190.09,,New payroll record
+1,6/1/2020,Credit,228.108,1010 BOA Operating Acct 3973,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$228.11 ,228.11,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$0.00 ,0,,
+1,6/1/2020,Credit,47.5225,1010 BOA Operating Acct 3973,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$47.52 ,47.52,,
+1,6/1/2020,Credit,38.018,1010 BOA Operating Acct 3973,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$38.02 ,38.02,,
+1,6/1/2020,Credit,19.009,1010 BOA Operating Acct 3973,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$19.01 ,19.01,,
+1,6/1/2020,Credit,57.027,1010 BOA Operating Acct 3973,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$57.03 ,57.03,,
+1,6/1/2020,Credit,370.6755,1010 BOA Operating Acct 3973,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",$370.68 ,370.68,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 181",($0.01),-0.01,,
+1,6/1/2020,Debit,190.09,2241 Fica Tax payable,451 USJP Program,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($190.09),190.09,,New payroll record
+1,6/1/2020,Debit,228.108,2241 Fica Tax payable,454 Pru - Workforce,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($228.11),228.11,,
+1,6/1/2020,Debit,0,2241 Fica Tax payable,502 ESG Housing Asst Program,City of Newark,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",$0.00 ,0,,
+1,6/1/2020,Debit,47.5225,2241 Fica Tax payable,341 NRTC 2020,State of New Jersey NRTC,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($47.52),47.52,,
+1,6/1/2020,Debit,38.018,2241 Fica Tax payable,525 CDBG - Housing,City of Irvington,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($38.02),38.02,,
+1,6/1/2020,Debit,19.009,2241 Fica Tax payable,515 NUL HUD PARS,NUL,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($19.01),19.01,,
+1,6/1/2020,Debit,57.027,2241 Fica Tax payable,560 Capital 1 SaveUp,Capital One,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($57.03),57.03,,
+1,6/1/2020,Debit,370.6755,2241 Fica Tax payable,562 LISC FOC 2020,LISC-HUD FOC,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",($370.68),370.68,,
+1,6/1/2020,Debit,0,2241 Fica Tax payable,563 Pru - FOC,Prudential,"SERMON, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 182",$0.01 ,-0.01,,
+1,6/1/2020,Debit,19.6344,7251 Social Security,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 183",($19.63),19.63,,New payroll record
+1,6/1/2020,Debit,21.0888,7251 Social Security,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 183",($21.09),21.09,,
+1,6/1/2020,Debit,31.9968,7251 Social Security,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 183",($32.00),32,,
+1,6/1/2020,Credit,7.857,2260 Accrued Aflac,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 185",$7.86 ,7.86,,New payroll record
+1,6/1/2020,Credit,8.439,2260 Accrued Aflac,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 185",$8.44 ,8.44,,
+1,6/1/2020,Credit,12.804,2260 Accrued Aflac,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 185",$12.80 ,12.8,,
+1,6/1/2020,Credit,85.3389,2241 Fica Tax payable,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 186",$85.34 ,85.34,,New payroll record
+1,6/1/2020,Credit,91.6603,2241 Fica Tax payable,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 186",$91.66 ,91.66,,
+1,6/1/2020,Credit,139.0708,2241 Fica Tax payable,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 186",$139.07 ,139.07,,
+1,6/1/2020,Credit,191.2275,1010 BOA Operating Acct 3973,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 187",$191.23 ,191.23,,New payroll record
+1,6/1/2020,Credit,205.3925,1010 BOA Operating Acct 3973,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 187",$205.39 ,205.39,,
+1,6/1/2020,Credit,311.63,1010 BOA Operating Acct 3973,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 187",$311.63 ,311.63,,
+1,6/1/2020,Debit,264.789,7220 Salaries & Wages,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 188",($264.79),264.79,,New payroll record
+1,6/1/2020,Debit,284.403,7220 Salaries & Wages,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 188",($284.40),284.4,,
+1,6/1/2020,Debit,431.508,7220 Salaries & Wages,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 188",($431.51),431.51,,
+1,6/1/2020,Credit,85.3389,1010 BOA Operating Acct 3973,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 189",$85.34 ,85.34,,New payroll record
+1,6/1/2020,Credit,91.6603,1010 BOA Operating Acct 3973,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 189",$91.66 ,91.66,,
+1,6/1/2020,Credit,139.0708,1010 BOA Operating Acct 3973,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 189",$139.07 ,139.07,,
+1,6/1/2020,Debit,85.3389,2241 Fica Tax payable,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 190",($85.34),85.34,,New payroll record
+1,6/1/2020,Debit,91.6603,2241 Fica Tax payable,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 190",($91.66),91.66,,
+1,6/1/2020,Debit,139.0708,2241 Fica Tax payable,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 190",($139.07),139.07,,
+1,6/1/2020,Debit,45.8109,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 191",($45.81),45.81,,New payroll record
+1,6/1/2020,Debit,49.2043,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 191",($49.20),49.2,,
+1,6/1/2020,Debit,74.6548,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 191",($74.66),74.66,,
+1,6/1/2020,Credit,18.3357,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 193",$18.34 ,18.34,,New payroll record
+1,6/1/2020,Credit,19.6939,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 193",$19.69 ,19.69,,
+1,6/1/2020,Credit,29.8804,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 193",$29.88 ,29.88,,
+1,6/1/2020,Credit,199.1169,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 194",$199.12 ,199.12,,New payroll record
+1,6/1/2020,Credit,213.8663,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 194",$213.87 ,213.87,,
+1,6/1/2020,Credit,324.4868,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 194",$324.48 ,324.48,,
+1,6/1/2020,Credit,446.1993,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 195",$446.20 ,446.2,,New payroll record
+1,6/1/2020,Credit,479.2511,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 195",$479.25 ,479.25,,
+1,6/1/2020,Credit,727.1396,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 195",$727.14 ,727.14,,
+1,6/1/2020,Debit,617.841,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 196",($617.84),617.84,,New payroll record
+1,6/1/2020,Debit,663.607,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 196",($663.61),663.61,,
+1,6/1/2020,Debit,1006.852,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 196","($1,006.85)",1006.85,,
+1,6/1/2020,Credit,199.1169,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 197",$199.12 ,199.12,,New payroll record
+1,6/1/2020,Credit,213.8663,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 197",$213.87 ,213.87,,
+1,6/1/2020,Credit,324.4868,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 197",$324.48 ,324.48,,
+1,6/1/2020,Debit,199.1169,,339 Opportunity Corp,State of New Jersey NRTC 19,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 198",($199.12),199.12,,New payroll record
+1,6/1/2020,Debit,213.8663,,220 Coding,DCA-Coding Program,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 198",($213.87),213.87,,
+1,6/1/2020,Debit,324.4868,,368 WF Neigh Revit,Wells Fargo Regional Foundation,"SHARIF, DARRIN S Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 198",($324.48),324.48,,
+1,6/1/2020,Debit,198.53,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 199",($198.53),198.53,,New payroll record
+1,6/1/2020,Credit,85.26,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 201",$85.26 ,85.26,,New payroll record
+1,6/1/2020,Credit,839.16,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 202",$839.16 ,839.16,,New payroll record
+1,6/1/2020,Credit,1958.16,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 203","$1,958.16 ",1958.16,,New payroll record
+1,6/1/2020,Debit,2684.05,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 204","($2,684.05)",2684.05,,New payroll record
+1,6/1/2020,Credit,839.16,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 205",$839.16 ,839.16,,New payroll record
+1,6/1/2020,Debit,839.16,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"SIMMONS, BERTRILLA RENEE Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 206",($839.16),839.16,,New payroll record
+1,6/1/2020,Debit,154.77,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 207",($154.77),154.77,,New payroll record
+1,6/1/2020,Credit,170.24,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 209",$170.24 ,170.24,,New payroll record
+1,6/1/2020,Credit,433.43,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 210",$433.43 ,433.43,,New payroll record
+1,6/1/2020,Credit,1124.02,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 211","$1,124.02 ",1124.02,,New payroll record
+1,6/1/2020,Debit,1572.92,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 212","($1,572.92)",1572.92,,New payroll record
+1,6/1/2020,Credit,433.43,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 213",$433.43 ,433.43,,New payroll record
+1,6/1/2020,Debit,433.43,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"STEWART, ROBIN D Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 214",($433.43),433.43,,New payroll record
+1,6/1/2020,Debit,59.43,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 215",($59.43),59.43,,New payroll record
+1,6/1/2020,Credit,140.83,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 217",$140.83 ,140.83,,New payroll record
+1,6/1/2020,Credit,487.3,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 218",$487.30 ,487.3,,New payroll record
+1,6/1/2020,Debit,568.7,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 219",($568.70),568.7,,New payroll record
+1,6/1/2020,Credit,140.83,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 220",$140.83 ,140.83,,New payroll record
+1,6/1/2020,Debit,140.83,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"TYLER, PATRICIA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 221",($140.83),140.83,,New payroll record
+1,6/1/2020,Debit,0,7251 Social Security,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 222",$0.00 ,0,,New payroll record
+1,6/1/2020,Debit,0.631,7251 Social Security,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 222",($0.63),0.63,,
+1,6/1/2020,Debit,2.8395,7251 Social Security,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 222",($2.84),2.84,,
+1,6/1/2020,Debit,28.0795,7251 Social Security,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 222",($28.08),28.08,,
+1,6/1/2020,Credit,0,2260 Accrued Aflac,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 224",$0.00 ,0,,New payroll record
+1,6/1/2020,Credit,0.6296,2260 Accrued Aflac,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 224",$0.63 ,0.63,,
+1,6/1/2020,Credit,2.8332,2260 Accrued Aflac,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 224",$2.83 ,2.83,,
+1,6/1/2020,Credit,28.0172,2260 Accrued Aflac,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 224",$28.02 ,28.02,,
+1,6/1/2020,Credit,0,2241 Fica Tax payable,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 225",$0.00 ,0,,New payroll record
+1,6/1/2020,Credit,2.4028,2241 Fica Tax payable,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 225",$2.40 ,2.4,,
+1,6/1/2020,Credit,10.8126,2241 Fica Tax payable,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 225",$10.81 ,10.81,,
+1,6/1/2020,Credit,106.9246,2241 Fica Tax payable,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 225",$106.93 ,106.93,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 226",$0.00 ,0,,New payroll record
+1,6/1/2020,Credit,6.06,1010 BOA Operating Acct 3973,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 226",$6.06 ,6.06,,
+1,6/1/2020,Credit,27.27,1010 BOA Operating Acct 3973,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 226",$27.27 ,27.27,,
+1,6/1/2020,Credit,269.67,1010 BOA Operating Acct 3973,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 226",$269.67 ,269.67,,
+1,6/1/2020,Debit,0,7220 Salaries & Wages,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 227",$0.00 ,0,,New payroll record
+1,6/1/2020,Debit,8.4614,7220 Salaries & Wages,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 227",($8.46),8.46,,
+1,6/1/2020,Debit,38.0763,7220 Salaries & Wages,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 227",($38.08),38.08,,
+1,6/1/2020,Debit,376.5323,7220 Salaries & Wages,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 227",($376.53),376.53,,
+1,6/1/2020,Credit,0,1010 BOA Operating Acct 3973,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 228",$0.00 ,0,,New payroll record
+1,6/1/2020,Credit,2.4028,1010 BOA Operating Acct 3973,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 228",$2.40 ,2.4,,
+1,6/1/2020,Credit,10.8126,1010 BOA Operating Acct 3973,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 228",$10.81 ,10.81,,
+1,6/1/2020,Credit,106.9246,1010 BOA Operating Acct 3973,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 228",$106.93 ,106.93,,
+1,6/1/2020,Debit,0,2241 Fica Tax payable,451 USJP Program,NUL,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 229",$0.00 ,0,,New payroll record
+1,6/1/2020,Debit,2.4028,2241 Fica Tax payable,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 229",($2.40),2.4,,
+1,6/1/2020,Debit,10.8126,2241 Fica Tax payable,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 229",($10.81),10.81,,
+1,6/1/2020,Debit,106.9246,2241 Fica Tax payable,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 229",($106.93),106.93,,
+1,6/1/2020,Debit,5.6786,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 230",($5.68),5.68,,New payroll record
+1,6/1/2020,Debit,25.5537,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 230",($25.55),25.55,,
+1,6/1/2020,Debit,252.6977,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 230",($252.70),252.7,,
+1,6/1/2020,Credit,5.6664,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 232",$5.67 ,5.67,,New payroll record
+1,6/1/2020,Credit,25.4988,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 232",$25.50 ,25.5,,
+1,6/1/2020,Credit,252.1548,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 232",$252.15 ,252.15,,
+1,6/1/2020,Credit,21.624,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 233",$21.62 ,21.62,,New payroll record
+1,6/1/2020,Credit,97.308,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 233",$97.31 ,97.31,,
+1,6/1/2020,Credit,962.268,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 233",$962.27 ,962.27,,
+1,6/1/2020,Credit,54.5422,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 234",$54.54 ,54.54,,New payroll record
+1,6/1/2020,Credit,245.4399,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 234",$245.44 ,245.44,,
+1,6/1/2020,Credit,2427.1279,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 234","$2,427.13 ",2427.13,,
+1,6/1/2020,Debit,76.154,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 235",($76.15),76.15,,New payroll record
+1,6/1/2020,Debit,342.693,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 235",($342.69),342.69,,
+1,6/1/2020,Debit,3388.853,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 235","($3,388.86)",3388.86,,
+1,6/1/2020,Credit,21.624,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 236",$21.62 ,21.62,,New payroll record
+1,6/1/2020,Credit,97.308,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 236",$97.31 ,97.31,,
+1,6/1/2020,Credit,962.268,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 236",$962.27 ,962.27,,
+1,6/1/2020,Debit,21.624,,339 Opportunity Corp,State of New Jersey NRTC 19,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 237",($21.62),21.62,,New payroll record
+1,6/1/2020,Debit,97.308,,220 Coding,DCA-Coding Program,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 237",($97.31),97.31,,
+1,6/1/2020,Debit,962.268,,620 CFO,Private Pay,"WARD, RICHARD G Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 237",($962.27),962.27,,
+1,6/1/2020,Debit,136.14,7251 Social Security,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 238",($136.14),136.14,,New payroll record
+1,6/1/2020,Credit,55.85,2260 Accrued Aflac,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Employer Liability, Deductions  Payroll Row: 240",$55.85 ,55.85,,New payroll record
+1,6/1/2020,Credit,396.18,2241 Fica Tax payable,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 241",$396.18 ,396.18,,New payroll record
+1,6/1/2020,Credit,1030.27,1010 BOA Operating Acct 3973,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 242","$1,030.27 ",1030.27,,New payroll record
+1,6/1/2020,Debit,1346.16,7220 Salaries & Wages,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 243","($1,346.16)",1346.16,,New payroll record
+1,6/1/2020,Credit,396.18,1010 BOA Operating Acct 3973,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 244",$396.18 ,396.18,,New payroll record
+1,6/1/2020,Debit,396.18,2241 Fica Tax payable,452 PACE,State of NJ -PACE,"WILLIAMS, KYNEISHA Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 245",($396.18),396.18,,New payroll record
+1,6/1/2020,Debit,61.13,7251 Social Security,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Employer Expense, Employer Expenses  Payroll Row: 246",($61.13),61.13,,New payroll record
+1,6/1/2020,Credit,163.8,2241 Fica Tax payable,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Employer Liability, Payroll Taxes  Payroll Row: 248",$163.80 ,163.8,,New payroll record
+1,6/1/2020,Credit,482.33,1010 BOA Operating Acct 3973,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Net Pay, Cash  Payroll Row: 249",$482.33 ,482.33,,New payroll record
+1,6/1/2020,Debit,585,7220 Salaries & Wages,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Salary Expense, Salaries  Payroll Row: 250",($585.00),585,,New payroll record
+1,6/1/2020,Credit,163.8,1010 BOA Operating Acct 3973,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Tax Liability, Cash  Payroll Row: 251",$163.80 ,163.8,,New payroll record
+1,6/1/2020,Debit,163.8,2241 Fica Tax payable,111B Abbott Fees,Private Pay,"WOODRIDGE, ROSALIND Payroll 6/1/2020","Tax Liability, Payroll Taxes  Payroll Row: 252",($163.80),163.8,,New payroll record

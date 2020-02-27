@@ -1,0 +1,22 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description
+2,6/1/2020,Debit,117.04,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Credit,50.00,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Credit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Credit,893.58,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Debit,1120.00,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Credit,293.46,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+2,6/1/2020,Debit,293.46,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+3,6/1/2020,Debit,126.85,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Credit,158.47,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Credit,264.94,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Credit,984.88,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Debit,1281.44,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Credit,264.94,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+3,6/1/2020,Debit,264.94,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"GREEN, YOLANDA Payroll 6/1/2020"
+4,6/1/2020,Debit,214.11,7251 Social Security,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Credit,101.80,2260 Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Credit,570.16,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Credit,1765.59,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Debit,2223.44,7220 Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Credit,570.16,1010 BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020
+4,6/1/2020,Debit,570.16,2241 Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),Abbott Payroll 6/1/2020

@@ -1,0 +1,8 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description
+1,6/1/2020,Credit,50.00,Accrued Aflac,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Credit,293.46,Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Credit,893.58,BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Credit,293.46,BOA Operating Acct 3973,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Debit,117.04,Social Security,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Debit,1120.00,Salaries & Wages,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
+1,6/1/2020,Debit,293.46,Fica Tax payable,111 Abbott,Newark Public Schools (Abbott),"ANDREWS, CORA Payroll 6/1/2020"
