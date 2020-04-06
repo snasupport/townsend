@@ -1,0 +1,8 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description
+1,6/1/2020,Debit,214.11,Social Security,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Credit,101.8,Accrued Aflac,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Credit,570.16,Fica Tax payable,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Credit,1765.59,BOA Operating Acct 3973,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Debit,2223.44,Salaries & Wages,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Credit,570.16,BOA Operating Acct 3973,600 Admin,,Abbott Payroll 6/1/2020
+1,6/1/2020,Debit,570.16,Fica Tax payable,600 Admin,,Abbott Payroll 6/1/2020

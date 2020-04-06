@@ -1,0 +1,259 @@
+Id,Transaction Date,Type (Credit/Debit),Amount,Account,Class,Donor,Description
+1,8/15/2020,Debit,1002,IT Support,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,1002,Allocated IT consultants,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,1633.33,Accounting Fees,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,1633.33,Allocated Acctg and Audit,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,440.42,Supplies,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,440.42,Alloc Supplies,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,493.96,Copier Lease,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,493.96,Allocated Cost,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,61.3,Equipment Rental,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,61.3,Allocated Cost,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,126.56,Alarm Services,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,126.56,Alloc Repairs and Maint,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,131.88,Trash Removal,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,131.88,Alloc Repairs and Maint,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,573.49,Mortgage Interest Expense,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,573.49,Allocated Mortgage Interest,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,1454.38,Property Insurance,950 Allocated Cost,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Credit,1454.38,Allocated Insurance,111 Abbott,Newark Public Schools (Abbott),Realloc from 950 to class 111 Abbott
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Credit,83.5,Allocated IT consultants,111A Abbott Other,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,111A Abbott Other,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Credit,36.7,Alloc Supplies,111A Abbott Other,Private Pay,Realloc from 950 to class 111A Abbott Other
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Credit,83.5,Allocated IT consultants,111B Wrap Fees,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,111B Wrap Fees,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Credit,36.7,Alloc Supplies,111B Wrap Fees,Private Pay,Realloc from 950 to class 111B Wrap Fees
+1,8/15/2020,Debit,167,IT Support,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,167,Allocated IT consultants,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,272.22,Accounting Fees,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,272.22,Allocated Acctg and Audit,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,73.4,Supplies,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,73.4,Alloc Supplies,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,49.4,Copier Lease,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,49.4,Allocated Cost,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,6.13,Equipment Rental,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,6.13,Allocated Cost,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,12.66,Alarm Services,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,12.66,Alloc Repairs and Maint,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,13.19,Trash Removal,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,13.19,Alloc Repairs and Maint,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,57.35,Mortgage Interest Expense,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,57.35,Allocated Mortgage Interest,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,145.44,Property Insurance,950 Allocated Cost,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Credit,145.44,Allocated Insurance,112.1 Toddlers,Private Pay,Realloc from 950 to class 112.1 Toddlers
+1,8/15/2020,Debit,334,IT Support,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,334,Allocated IT consultants,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,544.44,Accounting Fees,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,544.44,Allocated Acctg and Audit,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,146.81,Supplies,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,146.81,Alloc Supplies,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,98.79,Copier Lease,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,98.79,Allocated Cost,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,12.26,Equipment Rental,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,12.26,Allocated Cost,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,25.31,Alarm Services,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,25.31,Alloc Repairs and Maint,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,26.38,Trash Removal,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,26.38,Alloc Repairs and Maint,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,114.7,Mortgage Interest Expense,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,114.7,Allocated Mortgage Interest,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,290.88,Property Insurance,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Credit,290.88,Allocated Insurance,451 USJP Program,CITI / NUL/PNC,Realloc from 950 to class 451 USJP Program
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,83.5,Allocated IT consultants,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,36.7,Alloc Supplies,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,74.09,Copier Lease,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,74.09,Allocated Cost,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,9.2,Equipment Rental,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,9.2,Allocated Cost,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,18.98,Alarm Services,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,18.98,Alloc Repairs and Maint,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,19.78,Trash Removal,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,19.78,Alloc Repairs and Maint,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,86.02,Mortgage Interest Expense,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,86.02,Allocated Mortgage Interest,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,218.16,Property Insurance,950 Allocated Cost,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Credit,218.16,Allocated Insurance,467 WorkForceUA,"United Airlines, Inc.",Realloc from 950 to class 467 WorkForceUA
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Credit,83.5,Allocated IT consultants,454 Pru - Workforce,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,454 Pru - Workforce,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Credit,36.7,Alloc Supplies,454 Pru - Workforce,The Prudential Foundation,Realloc from 950 to class 454 Pru - Workforce
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Credit,83.5,Allocated IT consultants,452 PACE,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,452 PACE,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Credit,36.7,Alloc Supplies,452 PACE,State of NJ -PACE,Realloc from 950 to class 452 PACE
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,83.5,Allocated IT consultants,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,36.7,Alloc Supplies,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,74.09,Copier Lease,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,74.09,Allocated Cost,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,9.2,Equipment Rental,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,9.2,Allocated Cost,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,18.98,Alarm Services,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,18.98,Alloc Repairs and Maint,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,19.78,Trash Removal,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,19.78,Alloc Repairs and Maint,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,86.02,Mortgage Interest Expense,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,86.02,Allocated Mortgage Interest,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,218.16,Property Insurance,950 Allocated Cost,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Credit,218.16,Allocated Insurance,502 ESG Housing Asst Program,City of Newark-Home,Realloc from 950 to class 502 ESG Housing Asst Program
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Credit,83.5,Allocated IT consultants,334 NRTC 2018 Grant,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,334 NRTC 2018 Grant,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Credit,36.7,Alloc Supplies,334 NRTC 2018 Grant,State of NJ NRTC - 2018,Realloc from 950 to class 334 NRTC 2018 Grant
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Credit,83.5,Allocated IT consultants,341 NRTC 2020,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,341 NRTC 2020,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Credit,36.7,Alloc Supplies,341 NRTC 2020,State of NJ NRTC - 2018,Realloc from 950 to class 341 NRTC 2020
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Credit,83.5,Allocated IT consultants,525 CDBG - Housing,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,525 CDBG - Housing,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Credit,36.7,Alloc Supplies,525 CDBG - Housing,City of Irvington CDBG,Realloc from 950 to class 525 CDBG - Housing
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,83.5,Allocated IT consultants,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,36.7,Alloc Supplies,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,49.4,Copier Lease,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,49.4,Allocated Cost,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,6.13,Equipment Rental,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,6.13,Allocated Cost,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,12.66,Alarm Services,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,12.66,Alloc Repairs and Maint,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,13.19,Trash Removal,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,13.19,Alloc Repairs and Maint,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,57.35,Mortgage Interest Expense,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,57.35,Allocated Mortgage Interest,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,145.44,Property Insurance,950 Allocated Cost,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Credit,145.44,Allocated Insurance,515 NUL HUD PARS,CITI / NUL/PNC,Realloc from 950 to class 515 NUL HUD PARS
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Credit,83.5,Allocated IT consultants,560 Capital 1 SaveUp,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,560 Capital 1 SaveUp,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Credit,36.7,Alloc Supplies,560 Capital 1 SaveUp,Capital One 1,Realloc from 950 to class 560 Capital 1 SaveUp
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Credit,83.5,Allocated IT consultants,562 LISC FOC 2020,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,562 LISC FOC 2020,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Credit,36.7,Alloc Supplies,562 LISC FOC 2020,LISC-HUD FOC,Realloc from 950 to class 562 LISC FOC 2020
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Credit,83.5,Allocated IT consultants,563 Pru - FOC,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,563 Pru - FOC,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Credit,36.7,Alloc Supplies,563 Pru - FOC,The Prudential Foundation,Realloc from 950 to class 563 Pru - FOC
+1,8/15/2020,Debit,41.75,IT Support,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Credit,41.75,Allocated IT consultants,334F FOC,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Debit,68.06,Accounting Fees,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Credit,68.06,Allocated Acctg and Audit,334F FOC,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Debit,18.35,Supplies,950 Allocated Cost,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Credit,18.35,Alloc Supplies,334F FOC,State of NJ NRTC - 2018,Realloc from 950 to class 334F FOC
+1,8/15/2020,Debit,41.75,IT Support,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,41.75,Allocated IT consultants,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,68.06,Accounting Fees,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,68.06,Allocated Acctg and Audit,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,18.35,Supplies,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,18.35,Alloc Supplies,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,49.4,Copier Lease,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,49.4,Allocated Cost,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,6.13,Equipment Rental,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,6.13,Allocated Cost,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,12.66,Alarm Services,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,12.66,Alloc Repairs and Maint,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,13.19,Trash Removal,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,13.19,Alloc Repairs and Maint,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,57.35,Mortgage Interest Expense,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,57.35,Allocated Mortgage Interest,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,145.44,Property Insurance,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Credit,145.44,Allocated Insurance,335 NRTC 19,State of NJ NRTC - 2019,Realloc from 950 to class 335 NRTC 19
+1,8/15/2020,Debit,41.75,IT Support,950 Allocated Cost,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Credit,41.75,Allocated IT consultants,220 Coding,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Debit,68.06,Accounting Fees,950 Allocated Cost,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Credit,68.06,Allocated Acctg and Audit,220 Coding,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Debit,18.35,Supplies,950 Allocated Cost,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Credit,18.35,Alloc Supplies,220 Coding,DCA- Coding Program,Realloc from 950 to class 220 Coding
+1,8/15/2020,Debit,41.75,IT Support,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,41.75,Allocated IT consultants,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,68.06,Accounting Fees,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,68.06,Allocated Acctg and Audit,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,18.35,Supplies,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,18.35,Alloc Supplies,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,49.4,Copier Lease,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,49.4,Allocated Cost,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,6.13,Equipment Rental,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,6.13,Allocated Cost,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,12.66,Alarm Services,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,12.66,Alloc Repairs and Maint,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,13.19,Trash Removal,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,13.19,Alloc Repairs and Maint,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,57.35,Mortgage Interest Expense,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,57.35,Allocated Mortgage Interest,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,145.44,Property Insurance,950 Allocated Cost,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Credit,145.44,Allocated Insurance,368 WF Neigh Revit,Wells Fargo Regional Foundation,Realloc from 950 to class 368 WF Neigh Revit
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,83.5,Allocated IT consultants,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,36.7,Alloc Supplies,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,172.88,Copier Lease,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,172.88,Allocated Cost,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,21.46,Equipment Rental,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,21.46,Allocated Cost,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,44.3,Alarm Services,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,44.3,Alloc Repairs and Maint,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,46.16,Trash Removal,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,46.16,Alloc Repairs and Maint,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,200.72,Mortgage Interest Expense,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,200.72,Allocated Mortgage Interest,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,509.03,Property Insurance,950 Allocated Cost,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Credit,509.03,Allocated Insurance,610 CEO,Victoria Hernandez,Realloc from 950 to class 610 CEO
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Credit,83.5,Allocated IT consultants,620 CFO,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,620 CFO,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Credit,36.7,Alloc Supplies,620 CFO,Private Pay,Realloc from 950 to class 620 CFO
+1,8/15/2020,Debit,83.5,IT Support,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,83.5,Allocated IT consultants,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,136.11,Accounting Fees,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,136.11,Allocated Acctg and Audit,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,36.7,Supplies,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,36.7,Alloc Supplies,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,49.4,Copier Lease,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,49.4,Allocated Cost,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,6.13,Equipment Rental,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,6.13,Allocated Cost,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,12.66,Alarm Services,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,12.66,Alloc Repairs and Maint,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,13.19,Trash Removal,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,13.19,Alloc Repairs and Maint,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,57.35,Mortgage Interest Expense,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,57.35,Allocated Mortgage Interest,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Debit,145.44,Property Insurance,950 Allocated Cost,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
+1,8/15/2020,Credit,145.44,Allocated Insurance,339 ULEC Opport Corp,State of NJ NRTC - 2019,Realloc from 950 to class 339 ULEC Opport Corp
